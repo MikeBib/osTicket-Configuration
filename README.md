@@ -5,7 +5,6 @@
 
 <h1>osTicket - Post-Installation-Configuration
 
-- Internet Informatio
 
 <h2>Environments and Technologies Used</h2>
 
