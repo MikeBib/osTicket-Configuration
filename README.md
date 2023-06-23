@@ -42,14 +42,15 @@ EXAMPLE 1B
 <p>
 <img src="https://i.imgur.com/iHp42vC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+STEP 2 – CONFIGURE DEPARTMENTS
 <p>
 <br />
-For the “Administrator account” section ensure to create username and password credentials that will be required on future steps.
+We can configure departments by selecting the “Departments” button while still in the “Agents” tab. We can then “Add New Department”, see EXAMPLE 2A.
 </p>
 <br />
-EXAMPLE 1C
+EXAMPLE 2A
 <p>
-<img src="https://i.imgur.com/cdiXyVD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mgdybmP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then select “Networking” at the top of the page and make sure the inputs match EXAMPLE 1D then select “Review and Create”.
