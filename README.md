@@ -90,17 +90,17 @@ EXAMPLE 4A
 <img src="https://i.imgur.com/ZodIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<br />
 STEP 5 – SETTING UP SLA
 </p>
 <br />
 Go to the “Admin Panel” at the top right of the page then select the tab Manage>SLA.
-EXAMPLE 5A
-
 </p>
 <br />
-EXAMPLE 1D
-<p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EXAMPLE 5A
+</p>
+<br />
+<img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 line
