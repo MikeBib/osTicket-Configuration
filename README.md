@@ -98,8 +98,27 @@ Go to the “Admin Panel” at the top right of the page then select the tab Man
 </p>
 <br />
 EXAMPLE 5A
+<img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In EXAMPLE 5B we have created different SLA’s for the tickets depending on their severity. 
 </p>
 <br />
+EXAMPLE 5B
+<img src="https://i.imgur.com/WTf5BVe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+line
+</p>
+<br />
+EXAMPLE 5A
+<img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+line
+</p>
+<br />
+EXAMPLE 5A
 <img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
