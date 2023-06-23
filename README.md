@@ -36,11 +36,11 @@ EXAMPLE 1A
 <img src="https://i.imgur.com/sKTIgXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Since we have admin login credentials we can create users. We can also log out of the admin account and log into the agent account to see what they view on their end. This project includes creating different user access and tickets assigned. This allows me and other to see what using a ticketing system is like from the perspective of the IT Help Desk.
+Since we have admin login credentials we can create users. We can also log out of the admin account and log into the agent account to see what they view on their end. This project includes creating different user access and tickets assigned. This allows me and others to see status of the ticketing system.
 </p>
 EXAMPLE 1B
 <p>
-<img src="https://i.imgur.com/ShRYyCV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iHp42vC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <br />
