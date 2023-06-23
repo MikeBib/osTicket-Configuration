@@ -118,11 +118,11 @@ EXAMPLE 6A
 <img src="https://i.imgur.com/HHXG23M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+Below we see several additional Help Topics have been added to the list such as Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.
 </p>
 <br />
-EXAMPLE 6A
-<img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EXAMPLE 6B
+<img src="https://i.imgur.com/Wh0eoDI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 line
