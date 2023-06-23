@@ -61,9 +61,12 @@ EXAMPLE 2B
 STEP 3 - SETTING UP USERS AND AGENTS
 </p>
 <br />
-EXAMPLE 1D
+In the users tab a few agents have been created to populate this project. In EX 3A John Doe has been created along with his employee information, access, permissions, and teams. 
+</p>
+<br />
+EXAMPLE 3A
 <p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iGWlgTG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 line
