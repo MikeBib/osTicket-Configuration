@@ -45,7 +45,7 @@ EXAMPLE 1B
 STEP 2 – CONFIGURE DEPARTMENTS
 <p>
 <br />
-We can configure departments by selecting the “Departments” button while still in the “Agents” tab. We can then “Add New Department”, see EXAMPLE 2A.
+We can configure departments by selecting the “Departments” button while still in the “Agents” tab. We can then “Add New Department”, see EXAMPLE 2A and EXAMPLE 2B.
 </p>
 <br />
 EXAMPLE 2A
@@ -53,9 +53,6 @@ EXAMPLE 2A
 <img src="https://i.imgur.com/mgdybmP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Then select “Networking” at the top of the page and make sure the inputs match EXAMPLE 1D then select “Review and Create”.
-</p>
-<br />
 EXAMPLE 2B
 <p>
 <img src="https://i.imgur.com/Qs47jVs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
