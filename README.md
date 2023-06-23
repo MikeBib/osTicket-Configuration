@@ -58,7 +58,7 @@ Then select “Networking” at the top of the page and make sure the inputs mat
 <br />
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qs47jVs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 STEP 3 - SETTING UP USERS AND AGENTS
