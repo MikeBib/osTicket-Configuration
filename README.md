@@ -86,7 +86,7 @@ We can set up team by continuing to be in the admin panel>Agents>Teams as seen i
 <br />
 EXAMPLE 4A
 <p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZodIGoN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 STEP 5 – SETTING UP SLA
