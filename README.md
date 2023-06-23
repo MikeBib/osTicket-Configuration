@@ -78,6 +78,7 @@ EXAMPLE 3B
 <img src="https://i.imgur.com/6GuiYLr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<br />
 STEP 4 – SETTING UP TEAMS
 </p>
 <br />
