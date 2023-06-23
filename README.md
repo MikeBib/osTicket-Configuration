@@ -29,7 +29,7 @@
 
 STEP 1 – Logging into osTicket
 <p>
-Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. 
+Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. Then we open osTicket on the webbrowser with localhost/osTicket/. Settings icon is what shows in EXAMPLE 1A.
 <p>
 EXAMPLE 1A
 <p>
