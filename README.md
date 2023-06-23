@@ -78,23 +78,23 @@ EXAMPLE 3B
 <img src="https://i.imgur.com/6GuiYLr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+STEP 4 – SETTING UP TEAMS
 </p>
 <br />
-EXAMPLE 1D
+We can set up team by continuing to be in the admin panel>Agents>Teams as seen in EXAMPLE 4A. We can select “Add New Team” button to add a new team. 
+</p>
+<br />
+EXAMPLE 4A
 <p>
 <img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+STEP 5 – SETTING UP SLA
 </p>
 <br />
-EXAMPLE 1D
-<p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-line
+Go to the “Admin Panel” at the top right of the page then select the tab Manage>SLA.
+EXAMPLE 5A
+
 </p>
 <br />
 EXAMPLE 1D
