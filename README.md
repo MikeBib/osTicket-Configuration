@@ -61,7 +61,7 @@ EXAMPLE 2B
 STEP 3 - SETTING UP USERS AND AGENTS
 </p>
 <br />
-In the users tab a few agents have been created to populate this project. In EX 3A John Doe has been created along with his employee information, access, permissions, and teams. 
+In the users tab a few agents have been created to populate this project. In EXAMPLE 3A John Doe has been created along with his employee information, access, permissions, and teams. 
 </p>
 <br />
 EXAMPLE 3A
@@ -69,12 +69,13 @@ EXAMPLE 3A
 <img src="https://i.imgur.com/iGWlgTG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+Additionally by going to Admin Panel>Settings>User Settings we can allow anyone to create tickets by having the item unchecked named “Require registration and login to create tickets”. 
+To add users (non-IT employees) go to the “Agent Panel” by selecting the icon on the top right of the screen. Here we can enter employees into the system. 
 </p>
 <br />
-EXAMPLE 1D
+EXAMPLE 3B
 <p>
-<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6GuiYLr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 line
