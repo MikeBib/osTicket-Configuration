@@ -19,11 +19,11 @@
 <h2>List of Prerequisites</h2>
 
 - STEP 1 - Logging Into osTicket
-- STEP 2 - Creating users within osTicket
-- STEP 3
-- STEP 4
-- STEP 5
-- STEP 6
+- STEP 2 - Configure Departments
+- STEP 3 - Setting Up Users and Agents
+- STEP 4 - Setting Up Teams
+- STEP 5 - Settting Up Service Level Agreements
+- STEP 6 - Creating Help Topics
 
 <h2>Installation Steps</h2>
 
