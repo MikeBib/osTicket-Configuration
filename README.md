@@ -27,7 +27,7 @@
 
 <h2>Installation Steps</h2>
 
-STEP 1 – Logging into osTicket
+STEP 1 – LOGGING INTO OSTICKET
 <p>
 Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. Then we open osTicket on the webbrowser with localhost/osTicket/. Settings icon is what shows in EXAMPLE 1A.
 <p>
@@ -54,6 +54,46 @@ EXAMPLE 2A
 </p>
 <p>
 Then select “Networking” at the top of the page and make sure the inputs match EXAMPLE 1D then select “Review and Create”.
+</p>
+<br />
+EXAMPLE 2B
+<p>
+<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+STEP 3 - SETTING UP USERS AND AGENTS
+</p>
+<br />
+EXAMPLE 1D
+<p>
+<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+line
+</p>
+<br />
+EXAMPLE 1D
+<p>
+<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+line
+</p>
+<br />
+EXAMPLE 1D
+<p>
+<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+line
+</p>
+<br />
+EXAMPLE 1D
+<p>
+<img src="https://i.imgur.com/jzxbosV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+line
 </p>
 <br />
 EXAMPLE 1D
