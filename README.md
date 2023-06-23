@@ -105,20 +105,23 @@ In EXAMPLE 5B we have created different SLA’s for the tickets depending on the
 </p>
 <br />
 EXAMPLE 5B
-<img src="https://i.imgur.com/WTf5BVe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xo9ml9w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+STEP 6 – CREATING HELP TOPICS
+</p>
+<br />
+Going to the tab “Manager” we see “Help Topics” display. We can add help topics to be unique to the business we are supporting, see EXAMPLE 6A.
+</p>
+<br />
+EXAMPLE 6A
+<img src="https://i.imgur.com/HHXG23M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 line
 </p>
 <br />
-EXAMPLE 5A
-<img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-line
-</p>
-<br />
-EXAMPLE 5A
+EXAMPLE 6A
 <img src="https://i.imgur.com/pPfKjZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
