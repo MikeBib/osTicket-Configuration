@@ -29,14 +29,14 @@
 
 STEP 1 – LOGGING INTO OSTICKET
 <p>
-Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. Then we open osTicket on the webbrowser with localhost/osTicket/. Settings icon is what shows in EXAMPLE 1A.
+Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. Then we open osTicket on the webbrowser with localhost/osTicket/. When we select "Settings" we see what is shwon in EXAMPLE 1A.
 <p>
 EXAMPLE 1A
 <p>
 <img src="https://i.imgur.com/sKTIgXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Since we have admin login credentials we can create users. We can also log out of the admin account and log into the agent account to see what they view on their end. This project includes creating different user access and tickets assigned. This allows me and others to see status of the ticketing system.
+We will add agents in the "Agents" section while being logged in as an admin. We will then add information and preview items.
 </p>
 EXAMPLE 1B
 <p>
