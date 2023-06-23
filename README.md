@@ -18,8 +18,8 @@
 
 <h2>List of Prerequisites</h2>
 
-- STEP 1 - Creating the Virtual Machine Through Azure
-- STEP 2
+- STEP 1 - Logging Into osTicket
+- STEP 2 - Creating users within osTicket
 - STEP 3
 - STEP 4
 - STEP 5
@@ -27,16 +27,16 @@
 
 <h2>Installation Steps</h2>
 
-STEP 1 – Creating Virtual Machine Through Azure
+STEP 1 – Logging into osTicket
 <p>
-Go to portal.azure.com to set up a VM (you can create a free account with $200 credit here https://azure.microsoft.com/en-us/free/). 
+Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. 
 <p>
 EXAMPLE 1A
 <p>
 <img src="https://i.imgur.com/PowGPR4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next web page you will input several items as shown in EXAMPLE 1B & 1C such as Resource Group, Virtual Machine etc. Ensure to have the inputs be the same as the example photo.
+Since we have admin login credentials we can create users. We can also log out of the admin account and log into the agent account to see what they view on their end. This project includes creating different user access and tickets assigned. This allows me and other to see what using a ticketing system is like from the perspective of the IT Help Desk.
 </p>
 EXAMPLE 1B
 <p>
