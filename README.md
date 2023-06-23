@@ -118,13 +118,14 @@ EXAMPLE 6A
 <img src="https://i.imgur.com/HHXG23M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Below we see several additional Help Topics have been added to the list such as Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.
+Below we see several additional Help Topics have been added to the list such as Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset in EXAMPLE 6B.
 </p>
 <br />
 EXAMPLE 6B
 <img src="https://i.imgur.com/Wh0eoDI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-line
+This concludes this project in setting up the osTicketing system which will allow for a good starting framework.
 </p>
 <br />
+END OF PROJECT
