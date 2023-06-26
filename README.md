@@ -127,4 +127,4 @@ EXAMPLE 6B
 This concludes this project in setting up the osTicketing system which will allow for a good starting framework.
 </p>
 <br />
-END OF PROJECT
+END OF TUTORIAL
