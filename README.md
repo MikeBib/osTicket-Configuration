@@ -26,6 +26,8 @@
 
 <h2>Installation Steps</h2>
 
+osTicket was installed on a virtual machine through Azure, the installation instructions are not included in this tutorial as STEP 1 begins with the software already installed. 
+
 STEP 1 – LOGGING INTO OSTICKET
 <p>
 Go to portal.azure.com to connect to the Virtual Machine that was created to look up the IP address and then use remote desktop to log into the VM. Then we open osTicket on the webbrowser with localhost/osTicket/. When we select "Settings" we see what is shwon in EXAMPLE 1A.
