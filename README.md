@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - osTicket-Configuration
+<h1>osTicket -Configuration
 
 
 <h2>Environments and Technologies Used</h2>
